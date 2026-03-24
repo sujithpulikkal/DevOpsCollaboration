@@ -1,1 +1,3 @@
-"Change from featureB" 
+Line 1: Hello
+Line 2: Change from featureA
+Line 3: Bye
